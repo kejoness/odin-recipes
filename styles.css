@@ -1,0 +1,23 @@
+.main-content {
+    background-color: #c75e8f;
+    color: #bbab8f;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 5px;
+}
+
+ul,
+ol {
+    list-style-position: inside;
+}
+
+h1,
+h2,
+h3 {
+    font-style: italic;
+}
+
+a {
+    font-size: 20px;
+}
